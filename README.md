@@ -3,7 +3,6 @@
 <p align="center" width="100%">
     I'm Borislav from Sofia, Bulgaria.<br>
     currently studying in Technical University of Sofia<br>
-    and working as an Software Engineer Intern in Blankfactor!
 </p>
 
 
