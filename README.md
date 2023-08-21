@@ -2,7 +2,7 @@
 
 <p align="center" width="100%">
     I'm Borislav from Sofia, Bulgaria.<br>
-    currently studying in Technical University of Sofia<br>
+    currently studying in Technical University of Sofia.<br>
 </p>
 
 
@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,react,python,html,css&perline=3&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,typescript,react,tailwind,html,css&perline=3&theme=dark" />
   </a>
 </p>
 
