@@ -20,6 +20,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,stackoverflow,bootstrap,git,postman&perline=3&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,stackoverflow,mui,git,postman&perline=3&theme=dark" />
   </a>
 </p>
